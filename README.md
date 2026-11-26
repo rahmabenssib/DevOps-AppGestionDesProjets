@@ -221,7 +221,7 @@ pipeline {
 | Build frontend | npm / Angular CLI |
 | CI/CD | Jenkins |
 | Conteneurisation | Docker *(à venir)* |
-
+bonjour rahma
 ---
 
 ## 👤 Auteur
